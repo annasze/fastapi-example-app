@@ -1,0 +1,6 @@
+/migrations
+/alembic
+/env
+.env
+/.idea
+*.pyc
